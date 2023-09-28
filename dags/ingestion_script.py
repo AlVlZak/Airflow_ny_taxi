@@ -1,11 +1,11 @@
 #import pandas as pd
-#import pyarrow.parquet as pq
+import pyarrow.parquet as pq
 from sqlalchemy import create_engine
 from time import time
 
 
 def ingest_data(parquet_file, table_name):
-    # parquet_file = pq.ParquetFile(parquet_file)
+    parquet_file = pq.ParquetFile(parquet_file)
 
     # trips = parquet_file.read().to_pandas()
 
