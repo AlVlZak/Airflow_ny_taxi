@@ -1,7 +1,5 @@
 # Airflow New York Taxi Data Pipeline
 
-![Airflow Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Apache_Airflow_Logo.svg/400px-Apache_Airflow_Logo.svg.png)
-
 This repository houses a data pipeline built with Apache Airflow for processing New York City taxi data. The pipeline performs various data transformations and analyses on the taxi trip data, providing valuable insights and visualizations.
 
 ## Table of Contents
