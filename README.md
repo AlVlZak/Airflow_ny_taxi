@@ -1,6 +1,6 @@
 # Airflow New York Taxi Data Pipeline
 
-This repository houses a data pipeline built with Apache Airflow for processing New York City taxi data. The pipeline performs various data transformations and analyses on the taxi trip data, providing valuable insights and visualizations.
+This repository houses a data pipeline built with Apache Airflow for processing New York City taxi data. The pipeline performs various data transformations and analyses on the taxi trip data.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -11,7 +11,7 @@ This repository houses a data pipeline built with Apache Airflow for processing 
 - [Contributing](#contributing)
 
 ## Project Overview
-This project leverages Apache Airflow to automate and orchestrate the entire data processing workflow. It includes tasks for data extraction, transformation, and loading (ETL), as well as tasks for generating reports and visualizations.
+This project leverages Apache Airflow to automate and orchestrate the entire data processing workflow. It includes tasks for data extraction, transformation, and loading (ETL).
 
 ## Getting Started
 To begin using this project, you will need to have Apache Airflow installed. You can follow the installation instructions in the [official Apache Airflow documentation](https://airflow.apache.org/docs/apache-airflow/stable/start/index.html).
