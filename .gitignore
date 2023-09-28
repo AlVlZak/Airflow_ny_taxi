@@ -2,5 +2,4 @@ config/
 logs/
 plugins/
 venv/
-/.env
 dags/__pycache__/
